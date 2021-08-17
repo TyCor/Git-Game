@@ -1,0 +1,3 @@
+You fork repositories in GitHub by going to the top-left corner of the main
+page of whatever repository you would like to modify but don't have the
+permissions to modify, and click the "fork" button.
